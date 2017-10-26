@@ -111,7 +111,7 @@ Run App:
 created local.properties file under android folder in newly created app
 paste 
 sdk.dir = /home/shyam/Android/Sdk -> Save
-react-native run-android
 adb reverse tcp:8081 tcp:8081
-npm start (optional)
+react-native run-android
+
 
